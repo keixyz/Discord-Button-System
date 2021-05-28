@@ -1,0 +1,32 @@
+{
+    "Bot": {
+     "Token": "",
+     "Owners": [],
+     "Prefix": ["!", ".", "r!"],
+     "Durum": "",
+     "Status": ""
+    },
+
+    "Server": {
+     "GuildID": ""
+    },
+    
+    "Channels": {
+     "VoiceChannelID": ""
+    },
+
+    "Roles": {
+     "VK": "",
+     "DC": "",
+     "GoLive": "",
+     "Kırmızı":"",
+     "Yeşil":"",
+     "KMavi":"",
+     "Sarı":"",
+     "AMavi":"",
+     "Pembe":"",
+     "Lovers":"",
+     "Alone":""
+    }
+
+}

@@ -1,0 +1,10 @@
+{
+  "main": "keivegas.js",
+  "dependencies": {
+    "discord-buttons": "^2.4.1",
+    "discord.js": "^12.5.3"
+  },
+  "scripts": {
+    "test": "keivegas.js"
+  }
+}
